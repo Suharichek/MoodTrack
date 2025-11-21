@@ -34,7 +34,6 @@
 ---
 
 ## 🖼️ Скриншоты приложения
-### Онбординг
 Главный экран | Графики |  Настройки
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/user-attachments/assets/812f0e1b-ca3e-4c25-82e9-d134847a6ce2" width="300" />| <img src="https://github.com/user-attachments/assets/0771e49b-5c24-4ed3-9733-5421c9eeb60f" width="300" /> | <img src="https://github.com/user-attachments/assets/ee98b60e-c9f7-4806-913f-b062e5e89525" width="300" />
